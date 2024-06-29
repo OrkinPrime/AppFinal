@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ch_final</string>
+    <string name="startButton">开始新的一局</string>
+    <string name="_8">8</string>
+    <string name="restart">重新开始</string>
+    <string name="countView">你的分数是：0</string>
+</resources>
